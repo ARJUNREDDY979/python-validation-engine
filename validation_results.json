@@ -1,0 +1,263 @@
+[
+    {
+        "Record_Row": 2,
+        "Contact_Name": "Arnoldo Fabela",
+        "Company_Name": "Illinois Federation of Teachers",
+        "Accuracy_Score": "70/100",
+        "Confidence_Band": "Medium",
+        "Vendor_Alignment": "Overstated",
+        "Explanation": "Flags: Personal email provider used., Domain mismatch (@gmail.com vs ift-aft.org). Signal: Director of Field and Organizing recognized as Director in Operations. Signal: Verified Ultimate Parent entity. Signal: Data is fresh with contact details. Signal: Contact location (Illinois) aligns with HQ. Signal: Website is active. | Risk: No LinkedIn data available in record."
+    },
+    {
+        "Record_Row": 3,
+        "Contact_Name": "Arnoldo Fabela",
+        "Company_Name": "Illinois Federation of Teachers",
+        "Accuracy_Score": "68/100",
+        "Confidence_Band": "Medium",
+        "Vendor_Alignment": "Overstated",
+        "Explanation": "Flags: Personal email provider used., Domain mismatch (@gmail.com vs ift-aft.org). Signal: Director of Field and Organizing recognized as Director in Operations. Signal: Verified Subsidiary entity. Signal: Data is fresh with contact details. Signal: Contact location (Illinois) aligns with HQ. Signal: Website is active. | Risk: No LinkedIn data available in record."
+    },
+    {
+        "Record_Row": 4,
+        "Contact_Name": "Dan Mercer",
+        "Company_Name": "Illinois Federation of Teachers",
+        "Accuracy_Score": "68/100",
+        "Confidence_Band": "Medium",
+        "Vendor_Alignment": "Understated",
+        "Explanation": "Risk: No email provided. Signal: Vice President recognized as Executive in Operations. Signal: Verified Subsidiary entity. Signal: Data is fresh with contact details. Signal: Contact location (Illinois) aligns with HQ. Signal: Website is active. | Risk: No LinkedIn data available in record."
+    },
+    {
+        "Record_Row": 5,
+        "Contact_Name": "Nathan Rohr",
+        "Company_Name": "Buckingham Companies",
+        "Accuracy_Score": "70/100",
+        "Confidence_Band": "Medium",
+        "Vendor_Alignment": "Overstated",
+        "Explanation": "Risk: No email provided. Signal: Director, Operations, Construction Services recognized as Director in Operations. Signal: Verified Ultimate Parent entity. Signal: Data is fresh with contact details. Signal: Contact location (Indiana) aligns with HQ. Signal: Website is active. | Risk: No LinkedIn data available in record."
+    },
+    {
+        "Record_Row": 6,
+        "Contact_Name": "Taylor Deneen",
+        "Company_Name": "Illinois Federation of Teachers",
+        "Accuracy_Score": "68/100",
+        "Confidence_Band": "Medium",
+        "Vendor_Alignment": "Understated",
+        "Explanation": "Risk: No email provided. Signal: Director, Field Service recognized as Director in Operations. Signal: Verified Subsidiary entity. Signal: Data is fresh with contact details. Signal: Contact location (Illinois) aligns with HQ. Signal: Website is active. | Risk: No LinkedIn data available in record."
+    },
+    {
+        "Record_Row": 7,
+        "Contact_Name": "Julie Losee",
+        "Company_Name": "Kelsey-Seybold Clinic",
+        "Accuracy_Score": "66/100",
+        "Confidence_Band": "Medium",
+        "Vendor_Alignment": "Overstated",
+        "Explanation": "Risk: No email provided. Signal: Senior Director, Clinical Operations & Population Health recognized as Director in Medical & Health. Signal: Verified Ultimate Parent entity. Signal: Data is fresh with contact details. Caution: Contact in Florida, but HQ is in Texas. Signal: Website is active. | Risk: No LinkedIn data available in record."
+    },
+    {
+        "Record_Row": 8,
+        "Contact_Name": "Linda Ferrill",
+        "Company_Name": "Buckingham Companies",
+        "Accuracy_Score": "70/100",
+        "Confidence_Band": "Medium",
+        "Vendor_Alignment": "Overstated",
+        "Explanation": "Flags: Personal email provider used., Domain mismatch (@gmail.com vs buckingham.com). Signal: Regional VP recognized as Executive in Human Resources. Signal: Verified Ultimate Parent entity. Signal: Data is fresh with contact details. Signal: Contact location (Indiana) aligns with HQ. Signal: Website is active. | Risk: No LinkedIn data available in record."
+    },
+    {
+        "Record_Row": 9,
+        "Contact_Name": "David Comerford",
+        "Company_Name": "Illinois Federation of Teachers",
+        "Accuracy_Score": "68/100",
+        "Confidence_Band": "Medium",
+        "Vendor_Alignment": "Overstated",
+        "Explanation": "Flags: Personal email provider used., Domain mismatch (@gmail.com vs ift-aft.org). Signal: Legislative Director recognized as Director in Marketing. Signal: Verified Subsidiary entity. Signal: Data is fresh with contact details. Signal: Contact location (Illinois) aligns with HQ. Signal: Website is active. | Risk: No LinkedIn data available in record."
+    },
+    {
+        "Record_Row": 10,
+        "Contact_Name": "Abigail Healy",
+        "Company_Name": "Central Park Conservancy",
+        "Accuracy_Score": "70/100",
+        "Confidence_Band": "Medium",
+        "Vendor_Alignment": "Overstated",
+        "Explanation": "Flags: Personal email provider used., Domain mismatch (@gmail.com vs centralparknyc.org). Signal: Senior Vice President for Philanthopy recognized as Executive in C-Suite. Signal: Verified Ultimate Parent entity. Signal: Data is fresh with contact details. Signal: Contact location (New York) aligns with HQ. Signal: Website is active. | Risk: No LinkedIn data available in record."
+    },
+    {
+        "Record_Row": 11,
+        "Contact_Name": "Kelly Turner",
+        "Company_Name": "Illinois Federation of Teachers",
+        "Accuracy_Score": "68/100",
+        "Confidence_Band": "Medium",
+        "Vendor_Alignment": "Overstated",
+        "Explanation": "Flags: Personal email provider used., Domain mismatch (@gmail.com vs ift-aft.org). Signal: Legislative Director recognized as Director in Operations. Signal: Verified Subsidiary entity. Signal: Data is fresh with contact details. Signal: Contact location (Illinois) aligns with HQ. Signal: Website is active. | Risk: No LinkedIn data available in record."
+    },
+    {
+        "Record_Row": 12,
+        "Contact_Name": "Bryen Johnson",
+        "Company_Name": "Illinois Federation of Teachers",
+        "Accuracy_Score": "68/100",
+        "Confidence_Band": "Medium",
+        "Vendor_Alignment": "Overstated",
+        "Explanation": "Flags: Personal email provider used., Domain mismatch (@gmail.com vs ift-aft.org). Signal: Political Director recognized as Director in Unknown. Signal: Verified Subsidiary entity. Signal: Data is fresh with contact details. Signal: Contact location (Illinois) aligns with HQ. Signal: Website is active. | Risk: No LinkedIn data available in record."
+    },
+    {
+        "Record_Row": 13,
+        "Contact_Name": "Owen Niki",
+        "Company_Name": "Kelsey-Seybold Clinic",
+        "Accuracy_Score": "64/100",
+        "Confidence_Band": "Medium",
+        "Vendor_Alignment": "Aligned",
+        "Explanation": "Risk: No email provided. Signal: Director, Supply Chain recognized as Director in Operations. Signal: Verified Ultimate Parent entity. Signal: Data is fresh with contact details. Neutral: Incomplete geo-data for comparison. Signal: Website is active. | Risk: No LinkedIn data available in record."
+    },
+    {
+        "Record_Row": 14,
+        "Contact_Name": "Hubert Murray",
+        "Company_Name": "Stonal",
+        "Accuracy_Score": "60/100",
+        "Confidence_Band": "Medium",
+        "Vendor_Alignment": "Overstated",
+        "Explanation": "Flags: Personal email provider used., Domain mismatch (@gmail.com vs stonal.com). Signal: Owner recognized as Individual Contributor in Unknown. Signal: Verified Ultimate Parent entity. Signal: Data is fresh with contact details. Caution: Contact in Massachusetts, but HQ is in Ile-de-France. Signal: Website is active. | Risk: No LinkedIn data available in record."
+    },
+    {
+        "Record_Row": 15,
+        "Contact_Name": "Robin Rivaton",
+        "Company_Name": "Stonal",
+        "Accuracy_Score": "70/100",
+        "Confidence_Band": "Medium",
+        "Vendor_Alignment": "Overstated",
+        "Explanation": "Risk: No email provided. Signal: Chief Executive Officer and Directeur G\u00c3\u00a9n\u00c3\u00a9ral recognized as Executive in C-Suite. Signal: Verified Ultimate Parent entity. Signal: Data is fresh with contact details. Signal: Contact location (Ile-de-France) aligns with HQ. Signal: Website is active. | Risk: No LinkedIn data available in record."
+    },
+    {
+        "Record_Row": 16,
+        "Contact_Name": "Margaret Drakeley",
+        "Company_Name": "Kelsey-Seybold Clinic",
+        "Accuracy_Score": "85/100",
+        "Confidence_Band": "High",
+        "Vendor_Alignment": "Aligned",
+        "Explanation": "Flags: Domain mismatch (@aol.com vs kelsey-seybold.com). Signal: Director, Compliance & Utilization recognized as Director in Legal. Signal: Verified Ultimate Parent entity. Signal: Data is fresh with contact details. Signal: Contact location (Texas) aligns with HQ. Signal: Website is active. | Risk: No LinkedIn data available in record."
+    },
+    {
+        "Record_Row": 17,
+        "Contact_Name": "Jane Trombly",
+        "Company_Name": "Legal Decoder",
+        "Accuracy_Score": "73/100",
+        "Confidence_Band": "Medium",
+        "Vendor_Alignment": "Overstated",
+        "Explanation": "Flags: Domain mismatch (@me.com vs legaldecoder.com). Signal: Vice President, Revenue recognized as Executive in C-Suite. Signal: Verified Ultimate Parent entity. Caution: Missing notice date; data may be stale. Caution: Contact in Pennsylvania, but HQ is in Virginia. Signal: Website is active. | Risk: No LinkedIn data available in record."
+    },
+    {
+        "Record_Row": 18,
+        "Contact_Name": "Brandan DeCaro",
+        "Company_Name": "Miami Gardens Florida",
+        "Accuracy_Score": "62/100",
+        "Confidence_Band": "Medium",
+        "Vendor_Alignment": "Overstated",
+        "Explanation": "Risk: No email provided. Signal: Director, Capital Projects recognized as Director in Unknown. Signal: Verified Subsidiary entity. Signal: Data is fresh with contact details. Neutral: Incomplete geo-data for comparison. Signal: Website is active. | Risk: No LinkedIn data available in record."
+    },
+    {
+        "Record_Row": 19,
+        "Contact_Name": "Maher Daas",
+        "Company_Name": "Kelsey-Seybold Clinic",
+        "Accuracy_Score": "64/100",
+        "Confidence_Band": "Medium",
+        "Vendor_Alignment": "Aligned",
+        "Explanation": "Risk: No email provided. Signal: Medical Director, Pulmonary Disease recognized as Director in Medical & Health. Signal: Verified Ultimate Parent entity. Signal: Data is fresh with contact details. Neutral: Incomplete geo-data for comparison. Signal: Website is active. | Risk: No LinkedIn data available in record."
+    },
+    {
+        "Record_Row": 20,
+        "Contact_Name": "Justine Massonnier",
+        "Company_Name": "Buckingham Companies",
+        "Accuracy_Score": "70/100",
+        "Confidence_Band": "Medium",
+        "Vendor_Alignment": "Overstated",
+        "Explanation": "Flags: Personal email provider used., Domain mismatch (@gmail.com vs buckingham.com). Signal: Senior VP, Development Operations & Design recognized as Executive in Operations. Signal: Verified Ultimate Parent entity. Signal: Data is fresh with contact details. Signal: Contact location (Indiana) aligns with HQ. Signal: Website is active. | Risk: No LinkedIn data available in record."
+    },
+    {
+        "Record_Row": 21,
+        "Contact_Name": "Jonathan Balter",
+        "Company_Name": "The Aldridge",
+        "Accuracy_Score": "65/100",
+        "Confidence_Band": "Medium",
+        "Vendor_Alignment": "Overstated",
+        "Explanation": "Flags: Personal email provider used., Domain mismatch (@yahoo.com vs aldridge.com). Signal: Director, Client Success recognized as Director in Sales. Signal: Verified Ultimate Parent entity. Signal: Data is fresh with contact details. Signal: Contact location (Texas) aligns with HQ. Risk: Website error 403. | Risk: No LinkedIn data available in record."
+    },
+    {
+        "Record_Row": 22,
+        "Contact_Name": "Jonathan Balter",
+        "Company_Name": "The Aldridge",
+        "Accuracy_Score": "65/100",
+        "Confidence_Band": "Medium",
+        "Vendor_Alignment": "Overstated",
+        "Explanation": "Flags: Personal email provider used., Domain mismatch (@yahoo.com vs aldridge.com). Signal: Director, Client Success recognized as Director in Sales. Signal: Verified Ultimate Parent entity. Signal: Data is fresh with contact details. Signal: Contact location (Texas) aligns with HQ. Risk: Website error 403. | Risk: No LinkedIn data available in record."
+    },
+    {
+        "Record_Row": 23,
+        "Contact_Name": "Steven Lammers",
+        "Company_Name": "Kelsey-Seybold Clinic",
+        "Accuracy_Score": "85/100",
+        "Confidence_Band": "High",
+        "Vendor_Alignment": "Aligned",
+        "Explanation": "Flags: Domain mismatch (@comcast.net vs kelsey-seybold.com). Signal: Director, Facilities recognized as Director in Operations. Signal: Verified Ultimate Parent entity. Signal: Data is fresh with contact details. Signal: Contact location (Texas) aligns with HQ. Signal: Website is active. | Risk: No LinkedIn data available in record."
+    },
+    {
+        "Record_Row": 24,
+        "Contact_Name": "Mark Stierman",
+        "Company_Name": "Stonal",
+        "Accuracy_Score": "68/100",
+        "Confidence_Band": "Medium",
+        "Vendor_Alignment": "Overstated",
+        "Explanation": "Risk: No email provided. Signal: Vice President recognized as Executive in Operations. Signal: Verified Subsidiary entity. Signal: Data is fresh with contact details. Signal: Contact location (Ile-de-France) aligns with HQ. Signal: Website is active. | Risk: No LinkedIn data available in record."
+    },
+    {
+        "Record_Row": 25,
+        "Contact_Name": "Matt Barnett",
+        "Company_Name": "Stonal",
+        "Accuracy_Score": "58/100",
+        "Confidence_Band": "Medium",
+        "Vendor_Alignment": "Overstated",
+        "Explanation": "Risk: No email provided. Signal: Director, Information Technology recognized as Director in Information Technology. Signal: Verified Ultimate Parent entity. Caution: Missing notice date; data may be stale. Caution: Contact in Georgia, but HQ is in Ile-de-France. Signal: Website is active. | Risk: No LinkedIn data available in record."
+    },
+    {
+        "Record_Row": 26,
+        "Contact_Name": "Aline Casanova",
+        "Company_Name": "Stonal",
+        "Accuracy_Score": "70/100",
+        "Confidence_Band": "Medium",
+        "Vendor_Alignment": "Aligned",
+        "Explanation": "Risk: No email provided. Signal: Membre Du Comit DE Direction Head of Customer Success recognized as Executive in Sales. Signal: Verified Ultimate Parent entity. Signal: Data is fresh with contact details. Signal: Contact location (Ile-de-France) aligns with HQ. Signal: Website is active. | Risk: No LinkedIn data available in record."
+    },
+    {
+        "Record_Row": 27,
+        "Contact_Name": "Aline Casanova",
+        "Company_Name": "Stonal",
+        "Accuracy_Score": "70/100",
+        "Confidence_Band": "Medium",
+        "Vendor_Alignment": "Aligned",
+        "Explanation": "Risk: No email provided. Signal: Membre Du Comit DE Direction Head of Customer Success recognized as Executive in Sales. Signal: Verified Ultimate Parent entity. Signal: Data is fresh with contact details. Signal: Contact location (Ile-de-France) aligns with HQ. Signal: Website is active. | Risk: No LinkedIn data available in record."
+    },
+    {
+        "Record_Row": 28,
+        "Contact_Name": "Aline Casanova",
+        "Company_Name": "Stonal",
+        "Accuracy_Score": "70/100",
+        "Confidence_Band": "Medium",
+        "Vendor_Alignment": "Aligned",
+        "Explanation": "Risk: No email provided. Signal: Membre Du Comit DE Direction Head of Customer Success recognized as Executive in Sales. Signal: Verified Ultimate Parent entity. Signal: Data is fresh with contact details. Signal: Contact location (Ile-de-France) aligns with HQ. Signal: Website is active. | Risk: No LinkedIn data available in record."
+    },
+    {
+        "Record_Row": 29,
+        "Contact_Name": "Leslie David",
+        "Company_Name": "Kelsey-Seybold Clinic",
+        "Accuracy_Score": "62/100",
+        "Confidence_Band": "Medium",
+        "Vendor_Alignment": "Overstated",
+        "Explanation": "Risk: No email provided. Signal: Senior Director, Business Technology & Advisory recognized as Director in Information Technology. Signal: Verified Ultimate Parent entity. Caution: Missing notice date; data may be stale. Signal: Contact location (Texas) aligns with HQ. Signal: Website is active. | Risk: No LinkedIn data available in record."
+    },
+    {
+        "Record_Row": 30,
+        "Contact_Name": "Bryan Gregory",
+        "Company_Name": "The Aldridge",
+        "Accuracy_Score": "65/100",
+        "Confidence_Band": "Medium",
+        "Vendor_Alignment": "Overstated",
+        "Explanation": "Flags: Personal email provider used., Domain mismatch (@gmail.com vs aldridge.com). Signal: Partner. Vice President recognized as Executive in C-Suite. Signal: Verified Ultimate Parent entity. Signal: Data is fresh with contact details. Signal: Contact location (Texas) aligns with HQ. Risk: Website error 403. | Risk: No LinkedIn data available in record."
+    }
+]
